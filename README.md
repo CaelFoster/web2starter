@@ -3,16 +3,17 @@
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/CaelFoster/web2starter">
 <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
+Trying to learn how to make my SASS compile to css so its a little messy
 
-(boiler plate for all future projects) 
+(boiler plate for all future projects)
 
 > computers are dumb. humans make them smart.
 
 ## why does this exist?
 
-* dont start with blank files
-* common boilerplate for web projects
-* i am a human being who makes mistakes.
+- dont start with blank files
+- common boilerplate for web projects
+- i am a human being who makes mistakes.
 
 ## image
 
