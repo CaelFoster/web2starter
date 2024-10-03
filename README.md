@@ -25,3 +25,7 @@ Steps to compile SCSS to CSS:
 `npm install sass`
 then in package.json we made the line: "watch": "sass --watch ./src/scss:public/css"
 npm run watch compiles it to css
+
+##TODO later
+
+Learn to use netlify cli
