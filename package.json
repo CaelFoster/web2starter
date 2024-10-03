@@ -1,0 +1,16 @@
+{
+  "name": "web2starter",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch ./src/scss/global/index.scss:public/css/global.css ./src/scss/modules:public/css/modules"
+  },
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "sass": "^1.79.4"
+  }
+}

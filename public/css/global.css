@@ -1,0 +1,15 @@
+body {
+  background: red;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: rgb(109, 53, 17);
+}
+
+/*# sourceMappingURL=global.css.map */
