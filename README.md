@@ -29,3 +29,5 @@ npm run watch compiles it to css
 ##TODO later
 
 Learn to use netlify cli
+
+learn how to bundle js with esbuild
