@@ -23,7 +23,7 @@ Steps to compile SCSS to CSS:
 
 `npm init -y`
 `npm install sass`
-then in package.json we made the line: "watch": "sass --watch ./src/scss:public/css"
+then in package.json we made the line: "watch": "sass --watch ./src/scss:public/css" (input:output)
 npm run watch compiles it to css
 
 ##TODO later
